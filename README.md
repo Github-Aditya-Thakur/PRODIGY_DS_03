@@ -27,5 +27,5 @@ Thank you for reviewing my internship task submission!
 ## Contact Information
 For any inquiries or feedback regarding this project, please contact:
 
-- <a href="https://www.linkedin.com/in/oyeaditya/">ADITYA THAKUR</a>
+- <a href="https://www.linkedin.com/in/oyeaditya/">ADITYA THAKUR (LinkendIn)</a>
 - Email: piyushkumar17356@gmail.com
